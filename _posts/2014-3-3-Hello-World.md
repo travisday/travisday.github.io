@@ -1,5 +1,5 @@
 ---
-layout: post
-title: Developer.
+layout: page
+title: Developer. Musician. Student.
 ---
 
