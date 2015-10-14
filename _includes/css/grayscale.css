@@ -31,13 +31,13 @@ h6 {
     color: #444;
     font-weight: 200;
     letter-spacing: 3px;
-    text-align: right;
 }
 
 p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
+    color: #444;
 }
 
 @media(min-width:767px) {
