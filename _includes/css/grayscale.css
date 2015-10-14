@@ -2,6 +2,8 @@
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+
+   Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif
  */
 
 body {
@@ -25,7 +27,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Slim Joe;
     font-weight: 700;
     letter-spacing: 1px;
 }
