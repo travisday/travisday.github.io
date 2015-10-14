@@ -97,8 +97,8 @@ a:focus {
 }
 
 .navbar-custom .nav li.active {
-    outline: nonte;
-    background-color: #444;
+    outline: #fff;
+    background-color: #A89AEA;
 }
 
 .navbar-custom .nav li a {
