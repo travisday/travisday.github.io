@@ -203,6 +203,7 @@ a:focus {
 }
 
 .btn-circle i.animated {
+     horizontal-align: right;
     -webkit-transition-property: -webkit-transform;
     -webkit-transition-duration: 1s;
     -moz-transition-property: -moz-transform;
@@ -210,6 +211,7 @@ a:focus {
 }
 
 .btn-circle:hover i.animated {
+     horizontal-align: right;
     -webkit-animation-name: pulse;
     -moz-animation-name: pulse;
     -webkit-animation-duration: 1.5s;
