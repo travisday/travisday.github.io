@@ -152,7 +152,7 @@ a:focus {
 
 .intro .intro-body {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: right;
 }
 
 .intro .intro-body .brand-heading {
