@@ -188,7 +188,7 @@ a:focus {
     font-size: 40px;
     color: #444;
     background: 0 0;
-    text-align: right;
+    horizontal-align: right;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
@@ -198,6 +198,7 @@ a:focus {
 .btn-circle:focus {
     outline: 0;
     color: #444;
+    horizontal-align: right;
     background: rgba(255,255,255,.1);
 }
 
