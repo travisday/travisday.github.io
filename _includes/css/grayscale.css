@@ -211,7 +211,7 @@ a:focus {
 }
 
 .btn-circle:hover i.animated {
-     horizontal-align: right;
+     vertical-align: right;
     -webkit-animation-name: pulse;
     -moz-animation-name: pulse;
     -webkit-animation-duration: 1.5s;
