@@ -141,7 +141,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
+    color: #444;
     background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
     background-color: {{ site.color.grey }};
     -webkit-background-size: cover;
@@ -186,8 +186,9 @@ a:focus {
     border: 2px solid #fff;
     border-radius: 35px;
     font-size: 40px;
-    color: #fff;
+    color: #444;
     background: 0 0;
+    text-align: right;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
