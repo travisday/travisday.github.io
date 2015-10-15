@@ -198,12 +198,10 @@ a:focus {
 .btn-circle:focus {
     outline: 0;
     color: #444;
-    vertical-align: right;
     background: rgba(255,255,255,.1);
 }
 
 .btn-circle i.animated {
-     vertical-align: right;
     -webkit-transition-property: -webkit-transform;
     -webkit-transition-duration: 1s;
     -moz-transition-property: -moz-transform;
@@ -211,7 +209,6 @@ a:focus {
 }
 
 .btn-circle:hover i.animated {
-     vertical-align: right;
     -webkit-animation-name: pulse;
     -moz-animation-name: pulse;
     -webkit-animation-duration: 1.5s;
