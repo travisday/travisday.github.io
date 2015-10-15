@@ -116,7 +116,7 @@ a:focus {
 
 @media(min-width:767px) {
     .navbar {
-        padding: 2px 0;
+        padding: 6px 0;
         border-bottom: 0;
         letter-spacing: 1px;
         background: #444;
